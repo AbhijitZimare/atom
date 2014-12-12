@@ -3,7 +3,7 @@ temp = require 'temp'
 CSON = require 'season'
 fs = require 'fs-plus'
 
-describe "Config", ->
+fdescribe "Config", ->
   dotAtomPath = null
 
   beforeEach ->
